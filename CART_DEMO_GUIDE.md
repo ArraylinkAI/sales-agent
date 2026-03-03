@@ -91,7 +91,7 @@ During the conversation, when the customer shows interest in products, they're a
 ## 🎬 Demo Scenarios
 
 ### Scenario 1: Raspberry Jam Sale
-1. Start call with "City Comforts" hotel
+1. Start call with "The Palmer House" hotel
 2. AI mentions raspberry jam recommendation
 3. Customer says: "Yes, that sounds great!"
 4. **Result**: Raspberry Jam automatically added to cart
